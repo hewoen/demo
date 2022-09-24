@@ -1,2 +1,2 @@
 # demo
-Demo-Repository for Screenshots
+Demo-Repository for school
