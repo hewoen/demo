@@ -16,4 +16,12 @@ Demo-Repository for school
 7. To create a pull request, open the repository in your browser.
    1. Click on the tab "Pull requests"
    2. Click on "New pull request"
-   3. TODO...
+   3. For base branch, select `main`. For the comparing branch, select the branch you just created.
+      1. Github will now show all commits done to the branch and a diff for all files.
+   4. Now click on "Create pull request"
+      1. You can now change the title and add a description. You can also assign reviewers if you want to.
+   5. For the last time, click on "Create pull request"
+8. Now code runners will check your branch and test the implemented function. You will see the status on your pull request page.
+   1. If the status (except for reviews) is not green, you will have to check the error log and fix those issues.
+
+You now finished the task.
