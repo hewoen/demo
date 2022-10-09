@@ -6,7 +6,7 @@ Demo-Repository for school
 - Python installed
 
 ## Task
-1. Fork the remote repository: `git clone https://github.com/HealYouDown/demo`
+1. Fork the remote repository at `https://github.com/HealYouDown/demo`
 2. Create your own branch using `git checkout -b <breanch_name>` (Preferably your name)
 3. Implement the function found in `src/prim.py`:
     - The function takes an parameter `n`, and returns all prim numbers up to (including) `n` in any iterable container
